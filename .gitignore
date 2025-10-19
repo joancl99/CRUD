@@ -1,0 +1,5 @@
+*.class
+*.yap
+nbproject/private/
+build/
+dist/
